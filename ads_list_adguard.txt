@@ -4,7 +4,7 @@
 # Last Update: 19/04/2020
 
 # ======================================================================================================
-172.0.0.1 newrevive.detik.com
+
 172.0.0.1 cfs1.uzone.id
 172.0.0.1 cfs2.uzone.id
 172.0.0.1 uzone.id
@@ -140,546 +140,546 @@
 172.0.0.1 ads.lfstmedia.com
 172.0.0.1 ads.mobring.co
 172.0.0.1 ads.mopub.com
-ads.mp.mydas.mobi
-ads.nexage.com
-ads.playground.xyz
-ads.pubmatic.com
-ads.rekmob.com
-ads.roblox.com
-ads.snipermob.com
-ads.stickyadstv.com
-ads.tapdaq.com
-ads.tapdaq.com.cdn.cloudflare.net
-ads.traffichunt.com
-ads.trafficjunky.net
-ads.twitter.com
-ads.vidoomy.com
-ads.viralize.tv
-ads1.api.topcontentss.com
-ads2.adtelligent.com
-ads2.uptobox.com
-ads3.adtelligent.com
-ads30.adcolony.com
-ads4.adtelligent.com
-ads5.adtelligent.com
-ads54.adtelligent.com
-ads5-noneu.truecaller.com
-ads8.kompasads.com
-ads-816899299.ap-southeast-1.elb.amazonaws.com
-adsafe-vast.getpublica.com
-adsapp.affise.com
-ads-bi.zenkube.com
-ads-bid.l.doubleclick.net
-ads-bidder-api.twitter.com
-ads-brand-postback.unityads.unity3d.com
-adsco.re
-ads-dataf-elb-518053343.ap-southeast-1.elb.amazonaws.com
-ads-dot-o7apps.appspot.com
-adsd-sync.amanad.adtdp.com
-ads-east1-132899269.us-east-1.elb.amazonaws.com
-adseed.xsuad.com
-adserver.adreactor.com
-adserver.poskotanews.com
-adserver.unityads.unity3d.com
-adserver-87373007.us-east-2.elb.amazonaws.com
-adserver-prod-1937829349.us-east-2.elb.amazonaws.com
-adserver-us.adtech.advertising.com
-adserver-use1-ext-prod-a-2127645952.us-east-1.elb.amazonaws.com
-adserver-vpc-alb-0-649637586.ap-northeast-1.elb.amazonaws.com
-adserver-vpc-alb-1-769379334.ap-northeast-1.elb.amazonaws.com
-adserver-vpc-alb-2-1884982011.ap-northeast-1.elb.amazonaws.com
-adserver-vpc-alb-3-1256976712.ap-northeast-1.elb.amazonaws.com
-adservice.google.co.id
-adservice.google.com
-adserving.herokuapp.com
-adserving.live
-ads-game-configuration.unityads.unity3d.com
-ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
-adsimg.kompas.com
-adsimg.kompas.com.edgesuite.net
-adsimg-kompascom-1349122490.ap-southeast-1.elb.amazonaws.com
-adskpak.com
-adsl-098-075-096-250.sip.dab.bellsouth.net
-adsl-69-225-94-86.dsl.skt2ca.pacbell.net
-adsl-70-128-212-107.dsl.tulsok.swbell.net
-adsl-74-161-179-58.mia.bellsouth.net
-adsl-75-41-138-185.dsl.euclwi.sbcglobal.net
-adsl-99-126-66-157.dsl.akrnoh.sbcglobal.net
-adsl-99-151-244-184.dsl.irvnca.sbcglobal.net
-adsl-99-26-160-44.dsl.sfldmi.sbcglobal.net
-adslot.ufotosoft.com
-adsmediation.king.com
-adsmetadata.startappservice.com
-adsmobis.affise.com
-adspade.g2afse.com
-adsperfection.affise.com
-ads-prod.wikomobile.com
-adsserver.download
-adstacks.gotrackier.com
-adsterra.com
-adsunflower.com
-adv.sec.intl.miui.com
-adv.sec.miui.com
-adv.zkmobi.com
-advertisers.admedia.com
-advertsun.club
-advshield.goforandroid.com
-adx.lsosad.com
-adx.snipermob.com
-adx-id.ads.heytapmobi.com
-adx-id.ads.oppomobile.com
-adx-id-ads-694765279.ap-southeast-1.elb.amazonaws.com
-adx-id-ads-heytapmobi-com-gw-876093184.ap-southeast-1.elb.amazonaws.com
-adx-in.ads.oppomobile.com
-afflow.btadsmedia.com
-ai.adtarget.tech
-aksgplb01.adskom.com
-alb-adshonor-access-prod-1958741476.ap-southeast-1.elb.amazonaws.com
-alb-ads-ping-prod-385143662.ap-southeast-1.elb.amazonaws.com
-amidt.adsafeprotected.com
-anads.co
-analytics.ad.daum.net
-analytics.ad.g.daum.net
-androidads20.adcolony.com
-androidads23.adcolony.com
-a-origin.teads.tv
-aoyou.idealads.net
-ap.adups.com
-ap-adcs.rqmob.com
-api.ad.intl.xiaomi.com
-api.ad.leomaster.com
-api.ad.smaato.net
-api.ad.snappea.com
-api.ad.xiaomi.com
-api.adjust.com
-api.admobi360.com
-api.ads.go2reach.com
-api.adsnative123.com
-api.c.avazunativeads.com
-api.googleadsapi.com
-api.reachads.com
-api.salmonads.com
-api.v-mate.mobi
-api2.branch.io
-apiv2.moengage.com
-app.adjust.com
-app.adstracking.io
-app.adsunflower.cn
-app-api-e-ddfabc345112.adenjoybox.com
-appclick.rqmob.com
-appinstall.click
-apps.ad.snappea.com
-appswitch.adups.cn
-ase.adserver.snapads.com
-asia-adlog.vivoglobal.com
-aw.dw.impact-ad.jp
-b.admedia.com
-badskies.com
-banners.mellowads.com
-bayofads.affise.com
-bdapi-id.ads.heytapmobi.com
-bdapi-id-ads.realmemobile.com
-bdapi-id-ads-65359264.ap-southeast-1.elb.amazonaws.com
-bdapi-id-ads-heytapmobi-com-gw-201576737.ap-southeast-1.elb.amazonaws.com
-bdapi-in.ads.oppomobile.com
-bigdata.adsunflower.com
-bk.r-ad.ne.jp
-boffoads.xml.ak-is2.net
-boostads.go2affise.com
-bp.adkmob.com
-c.aaxads.com
-c.adsco.re
-c.adskeeper.co.uk
-c1.adform.net
-c1.popads.net
-c2.popads.net
-c2popadsad.popads.netdna-cdn.com
-campaign.kdaffiliates.com
-carbonads.bsa.netdna-cdn.com
-cdn.adx1.com
-cdn.push.house
-cdn.special-offers.online
-cdn2.teads.tv
-cdn4-buysellads-net.bsa.netdna-cdn.com
-cdn-adspot.tfgco.com
-cdn-creatives-akamai-prd.unityads.unity3d.com
-cf.iadsdk.apple.com
-cfs.u-ad.info
-cfs2.uzone.id
-cl-data-id.ads.heytapmobi.com
-cl-data-id.ads.heytapmobile.com
-"cl-data-id-ads-heytapmobi-com-gw-1125794531.ap-southeast-1.elb.amazonaws.com"
-"cl-data-id-ads-heytapmobile-com-2069016997.ap-southeast-1.elb.amazonaws.com"
-cl-data-in.ads.heytapmobi.com
-click.adopexchange.com
-click.advertnative.com
-click.appadservices.com
-click.baburnadir.com
-click.clickmara.com
-click.diyomisoft.net
-click.gowadogo.com
-click.kanmobi.net
-clicks.mbid.io
-clicks.rtad.io
-clk.apxadtracking.net
-clk.myiads.com
-cm.adkmob.com
-code.beaverads.com
-conf.lsosad.com
-config.ad.snappea.com
-config.unityads.unity3d.com
-control-ads-bbm-com.control.kochava.com
-core.royalads.net
-cpm-ad.com
-crashlogs.whatsapp.net
-crash-reporting.yy.com
-cr-p16.ladsp.jp
-cr-p3.ladsp.jp
-cr-pall.ladsp.com
-cs156.adn.rhocdn.net
-cs477.adn.etacdn.net
-cs550162656.adn.psicdn.net
-cs648.adn.phicdn.net
-daldt.adsafeprotected.com
-dart.l.doubleclick.net
-data.mistat.intl.xiaomi.com
-data-cl-f-ads-614737041.ap-southeast-1.elb.amazonaws.com
-data-cl-id-ads.realmemobile.com
-data-cl-id-ads-1590812182.ap-southeast-1.elb.amazonaws.com
-data-id.ads.oppomobile.com
-data-id-ads.realmemobile.com
-data-id-ads-633674268.ap-southeast-1.elb.amazonaws.com
-data-id-ads-realme-2101466531.ap-southeast-1.elb.amazonaws.com
-data-in.ads.oppomobile.com
-dgafgadsgkjg.top
-diagnosis.ad.intl.xiaomi.com
-dmp.adform.net
-dsp.adfarm1.adition.com
-dsp-adcreative.mobshark.net
-dt.adsafeprotected.com
-e.crashlytics.com
-ecs-ads-alb-o73bvse2a68q-1582783096.us-west-2.elb.amazonaws.com
-engine.adsupply.com
-eqx.smartadserver.com
-etgxntsrh246.l.adsco.re
-events3alt.adcolony.com
-exoticads.com
-explorads.xml.ak-is2.net
-fi.uufoxbusad.com
-fkserver.adfanking.com
-fls-na.amazon-adsystem.com
-folder.adsunflower.com
-folder.skybluead.com
-foreign.adscfg.togothermany.cn
-fota4.adups.cn
-fota5.adups.com
-fota5p.adups.com
-front-logs.voodoo-ads.io
-gads55000.pubmatic.com
-gadspms.com
-geocdn.unityads.unity3d.com
-geoworker.ayads.co
-gj.track.ucdns.uc.cn
-global.video.intl.xiaomi.com
-global.ymtracking.com
-globalapi.ad.xiaomi.com
-global-www.adform.net
-gofriendsadsnetwork.xyz
-googleads.g.doubleclick.net
-graph.instagram.com
-gstaticadssl.l.google.com
-guc-api.sonic-us.supersonicads.com
-gwrtdp-tn690bfadt-drop.aotclouds.net
-h-adashx.ut.taobao.com
-h-adashx4sg.ut.taobao.com
-hbopenbid.pubmatic.com
-helpgrid1.ksmobile.com
-httpkafka.unityads.unity3d.com
-iadsdk.apple.com.edgekey.net
-ib.adnxs.com
-ib.anycast.adnxs.com
-ids.ad.gt
-image.mybestclick.net
-images.ibizads.com
-img.beaverads.com
-in-adreq.vivoglobal.com
-ingameads.gameloft.com
-init.supersonicads.com
-inter1ads.com
-inv-nets-lbsg.admixer.net
-iotapi.adups.com
-ip54572ee5.direct-adsl.nl
-is-gateway.supersonicads.com
-itx4.smartadserver.com
-itx5.smartadserver.com
-jadserve.postrelease.com.akadns.net
-jp1-bid-hap.adsrvr.org
-js.ad-score.com
-js.hsadspixel.net
-jsc.adskeeper.co.uk
-l.adsbk.com
-l3.aaxads.com
-ladsdown.com
-leaddaway.g2afse.com
-mads.amazon.com
-madsats.com
-match.adsby.bidtheatre.com
-match.adsrvr.org
-media.adstatic.com.i.belugacdn.com
-mercusuar.uzone.id
-mob.adwhirl.com
-mobilecontent.smartlinkads.com
-n.ads1-adnow.com
-n.ads3-adnow.com
-n.adxxx.info
-n.pc1ads.com
-n.pc2ads.com
-n.pc5ads.com
-n135adserv.com
-na61-na62.wagbridge.advertisement.tanx.com.gds.alibabadns.com
-na61-na62-st3.wagbridge.advertisement.tanx.com.gds.alibabadns.com
-net.salmonads.com
-newoctads.com
-news-abroad.vivo.com
-newsupdatefind.info
-newworld-ext-lb.adaptiveads.com
-nginx-auction-prd-gcp.adsx.unityads.unity3d.com
-nipid-adsapi.azurewebsites.net
-nyidt.adsafeprotected.com
-offer.careyads.com
-onclickads.net
-orion.iad.appboy.com
-oss-ad.comscore.akadns.net
-outcome.supersonicads.com
-outcome-cdn.supersonicads.com
-outcome-ssp.supersonicads.com
-ow-gateway.supersonicads.com
-p.aaxads.com
-p.adsymptotic.com
-padsatz.com
-pad-v3.presage.io
-pagead.l.doubleclick.net
-pagead2.googlesyndication.com
-pagead46.l.doubleclick.net
-partnerad.l.doubleclick.net
-perf.cdnads.com
-pingback.giphy.com
-pixel.advertising.com
-pixel.tapad.com
-pixels.ad.gt
-pixel-tracking.sonic-us.supersonicads.com
-plugin.ucads.ucweb.com
-pm-gateway.supersonicads.com
-pool5.moatads.com
-popcash.libertymediaadss.netdna-cdn.com
-popcash.net
-prebid.adnxs.com
-prod-adsforce-openresty-adv-905369396.ap-southeast-1.elb.amazonaws.com
-propellerads.com
-pubads.g.doubleclick.net
-public-webservice.apdc3n.adpushup.com
-publisher-event.ads.prd.ie.internal.unity3d.com
-publpush.com
-pubpress.net
-push.adsconverts.com
-push.maribacaberita.com
-push2.notify-service.com
-pushads.biz
-pushads.detik.com
-pushnginx.news-host.pw
-pushpush.net
-px.adhigh.net
-px.ads.linkedin.com
-qt.slb.adflash.cn
-r.adport.io
-r.teads.tv
-redirect.appleads-trk.com
-redirectpopads.com
-reports.crashlytics.com
-rosenberg.appmetrica.yandex.net
-rq.requestads.com
-rtb-csync-eqx.smartadserver.com
-rtb-csync-itx4.smartadserver.com
-rtb-usw.mfadsrvr.com
-rv-gateway.supersonicads.com
-s.adslinkup.com
-s.amazon-adsystem.com
-s.pubmine.com
-sac.ayads.co
-s-cs.send.microad.jp
-sdk.adspruce.com
-sdk.adtiming.com
-sdk.hansel.io
-sdk.iadtrack.com
-sdk.loveota.com-ca15463c.baiduads.com
-sdk-android.ad.smaato.net
-sdkconfig.ad.intl.xiaomi.com
-sdkconfig.ad.xiaomi.com
-secure.adnxs.com
-securepubads.g.doubleclick.net
-serve.mondiad.net
-serve.popads.net
-service.adxoo.com
-servyourads.com
-settings.crashlytics.com
-settleads.gotrackier.com
-sg2-bid.adsrvr.org
-sgp.smartadserver.com
-showads-sg.pubmatic.com
-s-img.adskeeper.co.uk
-s-img.mgid.com
-sjedt.adsafeprotected.com
-sp.adpushonline.com
-ssdk.adkmob.com
-ssp.adskom.com
-st.beaverads.com
-static.ads.apusapps.com
-static.adsafeprotected.com
-static.ads-twitter.com
-static.adxadserv.com
-static.doubleclick.net
-static-doubleclick-net.l.google.com
-stats.g.doubleclick.net
-stats.l.doubleclick.net
-stg-data-id.ads.heytapmobi.com
-supply.decenterads.com
-sync3.adsniper.ru
-sync-dsp.ad-m.asia
-t.rebornads.com
-t.teads.tv
-tagan.adlightning.com
-timelyads.hotrk0.com
-topdealad.xml.ak-is2.net
-tr9ck.bruceleadx2.com
-track.adsplay.in
-track.adstack.co
-track.brucelead.com
-track.gowithads.com
-track-apac.adformnet.akadns.net
-tracking.bayofads.com
-tracking.intl.miui.com
-tracking.yohoads.com
-tr-asia.adsmoloco.com
-trk.xapads.com
-u-ad.com
-u-ad.info
-ulc3fq6eqm4b.l.adsco.re
-um3.eqads.com
-unconf.adkmob.com
-us.a.30ads.com
-usc.adserver.snapads.com
-use-tor.adsrvr.org
-use-va1.adsrvr.org
-uzone.id
-v.adsrvr.org
-v.amazon-adsystem.com
-v3.mercusuar.uzone.id
-v3-mercusuar.info
-wd.adcolony.com
-wd.adcolony.xyz
-worker23.advertnative.com
-worker3.advertnative.com
-worker4.advertnative.com
-ws.tapjoyads.com
-ww1097.smartadserver.com
-ww2060-itx4.smartadserver.com
-ww2060-sgp.smartadserver.com
-wwclickads.club
-www.adskeeper.co.uk
-www.adsv123.com
-www.adtival.network
-www.freeadso.com
-www.googleadservices.com
-www.maxonclick.com
-www.salmonads.com
-www.uzone.id
-xapads.go2affise.com
-xapads.rtb.ak-is2.net
-xapads.rtb-useast.ak-is2.net
-xyads.fuse-cloud.com
-y.one.impact-ad.jp
-z.moatads.com
-adx-tk.rayjump.com
-zeus.ad.intl.xiaomi.com
-9197271.fls.doubleclick.net
-9227947.fls.doubleclick.net
-9229036.fls.doubleclick.net
-a.adtng.com
-a.tracker.svsw.xyz
-abroad-dw-online.ksord.com
-ad.yf9889.com
-adashx.m.taobao.com
-adn-apac.admixer.co.kr
-adrta.com
-ads.superawesome.tv
-aff-report.lbesecapi.com
-ali-stats.jpush.cn
-api.bqtabc.adflash.cn
-api.rqmob.com
-asia.stat.moxiu.net
-bid.g.doubleclick.net
-chikiporn.com
-chikiporn1.vanessadelriomovies.com
-ck.jads.co
-clickmob.c0c.xyz
-data-cl-f.ads.oppomobile.com
-go.coralsands.xyz
-googleads4.g.doubleclick.net
-id.push.heytapmobi.com
-ipds.adrta.com
-mc.admetrica.ru
-mc.yandex.com
-mc.yandex.ru
-pubserver2.bizport.cn
-pushimg.com
-pushservice.info
-quadrupleclick.com
-report.appmetrica.yandex.net
-rs.pushservice.xyz
-s.1ts18.top
-show.revopush.com
-st.adxxx.info
-static.updatess.info
-static-l3.xvideos-cdn.com
-the-sexy-tube.com
-tracker.rqmob.com
-trk.georgepush.com
-us1.evadavdsp.pro
-yandex.com
-yandex.st
-cdn.appnext.com
-cdn.pushmart.net
-counter.yadro.ru
-feed.pushmart.net
-promo-bc.com
-si.appnext.com
-xapi.juicyads.com
-ad.jixie.io
-adashbc.ut.taobao.com
-adlog.flurry.com
-ads.cloudgames.com
-ads3.fingersoft.net
-adtrack.appcpi.net
-asia.adform.net
-asia-static-p.vivoglobal.com
-auction.unityads.unity3d.com
-banner-gateway.supersonicads.com
-bigdata.adfuture.cn
-blacurlik.com
-cm.adgrx.com
-d.adroll.com
-deloplen.com
-img.adtiming.com
-mcdp-sadc1.outbrain.com
-nep.advangelists.com
-partner.googleadservices.com
-serconmp.com
-topflownews.com
-tpc.googlesyndication.com
-ucads-cdn.ucweb.com
-vast.adxoo.com
-3.kxc-news2.club
-9469210.fls.doubleclick.net
+172.0.0.1 ads.mp.mydas.mobi
+172.0.0.1 ads.nexage.com
+172.0.0.1 ads.playground.xyz
+172.0.0.1 ads.pubmatic.com
+172.0.0.1 ads.rekmob.com
+172.0.0.1 ads.roblox.com
+172.0.0.1 ads.snipermob.com
+172.0.0.1 ads.stickyadstv.com
+172.0.0.1 ads.tapdaq.com
+172.0.0.1 ads.tapdaq.com.cdn.cloudflare.net
+172.0.0.1 ads.traffichunt.com
+172.0.0.1 ads.trafficjunky.net
+172.0.0.1 ads.twitter.com
+172.0.0.1 ads.vidoomy.com
+172.0.0.1 ads.viralize.tv
+172.0.0.1 ads1.api.topcontentss.com
+172.0.0.1 ads2.adtelligent.com
+172.0.0.1 ads2.uptobox.com
+172.0.0.1 ads3.adtelligent.com
+172.0.0.1 ads30.adcolony.com
+172.0.0.1 ads4.adtelligent.com
+172.0.0.1 ads5.adtelligent.com
+172.0.0.1 ads54.adtelligent.com
+172.0.0.1 ads5-noneu.truecaller.com
+172.0.0.1 ads8.kompasads.com
+172.0.0.1 ads-816899299.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 adsafe-vast.getpublica.com
+172.0.0.1 adsapp.affise.com
+172.0.0.1 ads-bi.zenkube.com
+172.0.0.1 ads-bid.l.doubleclick.net
+172.0.0.1 ads-bidder-api.twitter.com
+172.0.0.1 ads-brand-postback.unityads.unity3d.com
+172.0.0.1 adsco.re
+172.0.0.1 ads-dataf-elb-518053343.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 ads-dot-o7apps.appspot.com
+172.0.0.1 adsd-sync.amanad.adtdp.com
+172.0.0.1 ads-east1-132899269.us-east-1.elb.amazonaws.com
+172.0.0.1 adseed.xsuad.com
+172.0.0.1 adserver.adreactor.com
+172.0.0.1 adserver.poskotanews.com
+172.0.0.1 adserver.unityads.unity3d.com
+172.0.0.1 adserver-87373007.us-east-2.elb.amazonaws.com
+172.0.0.1 adserver-prod-1937829349.us-east-2.elb.amazonaws.com
+172.0.0.1 adserver-us.adtech.advertising.com
+172.0.0.1 adserver-use1-ext-prod-a-2127645952.us-east-1.elb.amazonaws.com
+172.0.0.1 adserver-vpc-alb-0-649637586.ap-northeast-1.elb.amazonaws.com
+172.0.0.1 adserver-vpc-alb-1-769379334.ap-northeast-1.elb.amazonaws.com
+172.0.0.1 adserver-vpc-alb-2-1884982011.ap-northeast-1.elb.amazonaws.com
+172.0.0.1 adserver-vpc-alb-3-1256976712.ap-northeast-1.elb.amazonaws.com
+172.0.0.1 adservice.google.co.id
+172.0.0.1 adservice.google.com
+172.0.0.1 adserving.herokuapp.com
+172.0.0.1 adserving.live
+172.0.0.1 ads-game-configuration.unityads.unity3d.com
+172.0.0.1 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
+172.0.0.1 adsimg.kompas.com
+172.0.0.1 adsimg.kompas.com.edgesuite.net
+172.0.0.1 adsimg-kompascom-1349122490.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 adskpak.com
+172.0.0.1 adsl-098-075-096-250.sip.dab.bellsouth.net
+172.0.0.1 adsl-69-225-94-86.dsl.skt2ca.pacbell.net
+172.0.0.1 adsl-70-128-212-107.dsl.tulsok.swbell.net
+172.0.0.1 adsl-74-161-179-58.mia.bellsouth.net
+172.0.0.1 adsl-75-41-138-185.dsl.euclwi.sbcglobal.net
+172.0.0.1 adsl-99-126-66-157.dsl.akrnoh.sbcglobal.net
+172.0.0.1 adsl-99-151-244-184.dsl.irvnca.sbcglobal.net
+172.0.0.1 adsl-99-26-160-44.dsl.sfldmi.sbcglobal.net
+172.0.0.1 adslot.ufotosoft.com
+172.0.0.1 adsmediation.king.com
+172.0.0.1 adsmetadata.startappservice.com
+172.0.0.1 adsmobis.affise.com
+172.0.0.1 adspade.g2afse.com
+172.0.0.1 adsperfection.affise.com
+172.0.0.1 ads-prod.wikomobile.com
+172.0.0.1 adsserver.download
+172.0.0.1 adstacks.gotrackier.com
+172.0.0.1 adsterra.com
+172.0.0.1 adsunflower.com
+172.0.0.1 adv.sec.intl.miui.com
+172.0.0.1 adv.sec.miui.com
+172.0.0.1 adv.zkmobi.com
+172.0.0.1 advertisers.admedia.com
+172.0.0.1 advertsun.club
+172.0.0.1 advshield.goforandroid.com
+172.0.0.1 adx.lsosad.com
+172.0.0.1 adx.snipermob.com
+172.0.0.1 adx-id.ads.heytapmobi.com
+172.0.0.1 adx-id.ads.oppomobile.com
+172.0.0.1 adx-id-ads-694765279.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 adx-id-ads-heytapmobi-com-gw-876093184.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 adx-in.ads.oppomobile.com
+172.0.0.1 afflow.btadsmedia.com
+172.0.0.1 ai.adtarget.tech
+172.0.0.1 aksgplb01.adskom.com
+172.0.0.1 alb-adshonor-access-prod-1958741476.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 alb-ads-ping-prod-385143662.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 amidt.adsafeprotected.com
+172.0.0.1 anads.co
+172.0.0.1 analytics.ad.daum.net
+172.0.0.1 analytics.ad.g.daum.net
+172.0.0.1 androidads20.adcolony.com
+172.0.0.1 androidads23.adcolony.com
+172.0.0.1 a-origin.teads.tv
+172.0.0.1 aoyou.idealads.net
+172.0.0.1 ap.adups.com
+172.0.0.1 ap-adcs.rqmob.com
+172.0.0.1 api.ad.intl.xiaomi.com
+172.0.0.1 api.ad.leomaster.com
+172.0.0.1 api.ad.smaato.net
+172.0.0.1 api.ad.snappea.com
+172.0.0.1 api.ad.xiaomi.com
+172.0.0.1 api.adjust.com
+172.0.0.1 api.admobi360.com
+172.0.0.1 api.ads.go2reach.com
+172.0.0.1 api.adsnative123.com
+172.0.0.1 api.c.avazunativeads.com
+172.0.0.1 api.googleadsapi.com
+172.0.0.1 api.reachads.com
+172.0.0.1 api.salmonads.com
+172.0.0.1 api.v-mate.mobi
+172.0.0.1 api2.branch.io
+172.0.0.1 apiv2.moengage.com
+172.0.0.1 app.adjust.com
+172.0.0.1 app.adstracking.io
+172.0.0.1 app.adsunflower.cn
+172.0.0.1 app-api-e-ddfabc345112.adenjoybox.com
+172.0.0.1 appclick.rqmob.com
+172.0.0.1 appinstall.click
+172.0.0.1 apps.ad.snappea.com
+172.0.0.1 appswitch.adups.cn
+172.0.0.1 ase.adserver.snapads.com
+172.0.0.1 asia-adlog.vivoglobal.com
+172.0.0.1 aw.dw.impact-ad.jp
+172.0.0.1 b.admedia.com
+172.0.0.1 badskies.com
+172.0.0.1 banners.mellowads.com
+172.0.0.1 bayofads.affise.com
+172.0.0.1 bdapi-id.ads.heytapmobi.com
+172.0.0.1 bdapi-id-ads.realmemobile.com
+172.0.0.1 bdapi-id-ads-65359264.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 bdapi-id-ads-heytapmobi-com-gw-201576737.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 bdapi-in.ads.oppomobile.com
+172.0.0.1 bigdata.adsunflower.com
+172.0.0.1 bk.r-ad.ne.jp
+172.0.0.1 boffoads.xml.ak-is2.net
+172.0.0.1 boostads.go2affise.com
+172.0.0.1 bp.adkmob.com
+172.0.0.1 c.aaxads.com
+172.0.0.1 c.adsco.re
+172.0.0.1 c.adskeeper.co.uk
+172.0.0.1 c1.adform.net
+172.0.0.1 c1.popads.net
+172.0.0.1 c2.popads.net
+172.0.0.1 c2popadsad.popads.netdna-cdn.com
+172.0.0.1 campaign.kdaffiliates.com
+172.0.0.1 carbonads.bsa.netdna-cdn.com
+172.0.0.1 cdn.adx1.com
+172.0.0.1 cdn.push.house
+172.0.0.1 cdn.special-offers.online
+172.0.0.1 cdn2.teads.tv
+172.0.0.1 cdn4-buysellads-net.bsa.netdna-cdn.com
+172.0.0.1 cdn-adspot.tfgco.com
+172.0.0.1 cdn-creatives-akamai-prd.unityads.unity3d.com
+172.0.0.1 cf.iadsdk.apple.com
+172.0.0.1 cfs.u-ad.info
+172.0.0.1 cfs2.uzone.id
+172.0.0.1 cl-data-id.ads.heytapmobi.com
+172.0.0.1 cl-data-id.ads.heytapmobile.com
+172.0.0.1 cl-data-id-ads-heytapmobi-com-gw-1125794531.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 cl-data-id-ads-heytapmobile-com-2069016997.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 cl-data-in.ads.heytapmobi.com
+172.0.0.1 click.adopexchange.com
+172.0.0.1 click.advertnative.com
+172.0.0.1 click.appadservices.com
+172.0.0.1 click.baburnadir.com
+172.0.0.1 click.clickmara.com
+172.0.0.1 click.diyomisoft.net
+172.0.0.1 click.gowadogo.com
+172.0.0.1 click.kanmobi.net
+172.0.0.1 clicks.mbid.io
+172.0.0.1 clicks.rtad.io
+172.0.0.1 clk.apxadtracking.net
+172.0.0.1 clk.myiads.com
+172.0.0.1 cm.adkmob.com
+172.0.0.1 code.beaverads.com
+172.0.0.1 conf.lsosad.com
+172.0.0.1 config.ad.snappea.com
+172.0.0.1 config.unityads.unity3d.com
+172.0.0.1 control-ads-bbm-com.control.kochava.com
+172.0.0.1 core.royalads.net
+172.0.0.1 cpm-ad.com
+172.0.0.1 crashlogs.whatsapp.net
+172.0.0.1 crash-reporting.yy.com
+172.0.0.1 cr-p16.ladsp.jp
+172.0.0.1 cr-p3.ladsp.jp
+172.0.0.1 cr-pall.ladsp.com
+172.0.0.1 cs156.adn.rhocdn.net
+172.0.0.1 cs477.adn.etacdn.net
+172.0.0.1 cs550162656.adn.psicdn.net
+172.0.0.1 cs648.adn.phicdn.net
+172.0.0.1 daldt.adsafeprotected.com
+172.0.0.1 dart.l.doubleclick.net
+172.0.0.1 data.mistat.intl.xiaomi.com
+172.0.0.1 data-cl-f-ads-614737041.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 data-cl-id-ads.realmemobile.com
+172.0.0.1 data-cl-id-ads-1590812182.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 data-id.ads.oppomobile.com
+172.0.0.1 data-id-ads.realmemobile.com
+172.0.0.1 data-id-ads-633674268.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 data-id-ads-realme-2101466531.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 data-in.ads.oppomobile.com
+172.0.0.1 dgafgadsgkjg.top
+172.0.0.1 diagnosis.ad.intl.xiaomi.com
+172.0.0.1 dmp.adform.net
+172.0.0.1 dsp.adfarm1.adition.com
+172.0.0.1 dsp-adcreative.mobshark.net
+172.0.0.1 dt.adsafeprotected.com
+172.0.0.1 e.crashlytics.com
+172.0.0.1 ecs-ads-alb-o73bvse2a68q-1582783096.us-west-2.elb.amazonaws.com
+172.0.0.1 engine.adsupply.com
+172.0.0.1 eqx.smartadserver.com
+172.0.0.1 etgxntsrh246.l.adsco.re
+172.0.0.1 events3alt.adcolony.com
+172.0.0.1 exoticads.com
+172.0.0.1 explorads.xml.ak-is2.net
+172.0.0.1 fi.uufoxbusad.com
+172.0.0.1 fkserver.adfanking.com
+172.0.0.1 fls-na.amazon-adsystem.com
+172.0.0.1 folder.adsunflower.com
+172.0.0.1 folder.skybluead.com
+172.0.0.1 foreign.adscfg.togothermany.cn
+172.0.0.1 fota4.adups.cn
+172.0.0.1 fota5.adups.com
+172.0.0.1 fota5p.adups.com
+172.0.0.1 front-logs.voodoo-ads.io
+172.0.0.1 gads55000.pubmatic.com
+172.0.0.1 gadspms.com
+172.0.0.1 geocdn.unityads.unity3d.com
+172.0.0.1 geoworker.ayads.co
+172.0.0.1 gj.track.ucdns.uc.cn
+172.0.0.1 global.video.intl.xiaomi.com
+172.0.0.1 global.ymtracking.com
+172.0.0.1 globalapi.ad.xiaomi.com
+172.0.0.1 global-www.adform.net
+172.0.0.1 gofriendsadsnetwork.xyz
+172.0.0.1 googleads.g.doubleclick.net
+172.0.0.1 graph.instagram.com
+172.0.0.1 gstaticadssl.l.google.com
+172.0.0.1 guc-api.sonic-us.supersonicads.com
+172.0.0.1 gwrtdp-tn690bfadt-drop.aotclouds.net
+172.0.0.1 h-adashx.ut.taobao.com
+172.0.0.1 h-adashx4sg.ut.taobao.com
+172.0.0.1 hbopenbid.pubmatic.com
+172.0.0.1 helpgrid1.ksmobile.com
+172.0.0.1 httpkafka.unityads.unity3d.com
+172.0.0.1 iadsdk.apple.com.edgekey.net
+172.0.0.1 ib.adnxs.com
+172.0.0.1 ib.anycast.adnxs.com
+172.0.0.1 ids.ad.gt
+172.0.0.1 image.mybestclick.net
+172.0.0.1 images.ibizads.com
+172.0.0.1 img.beaverads.com
+172.0.0.1 in-adreq.vivoglobal.com
+172.0.0.1 ingameads.gameloft.com
+172.0.0.1 init.supersonicads.com
+172.0.0.1 inter1ads.com
+172.0.0.1 inv-nets-lbsg.admixer.net
+172.0.0.1 iotapi.adups.com
+172.0.0.1 ip54572ee5.direct-adsl.nl
+172.0.0.1 is-gateway.supersonicads.com
+172.0.0.1 itx4.smartadserver.com
+172.0.0.1 itx5.smartadserver.com
+172.0.0.1 jadserve.postrelease.com.akadns.net
+172.0.0.1 jp1-bid-hap.adsrvr.org
+172.0.0.1 js.ad-score.com
+172.0.0.1 js.hsadspixel.net
+172.0.0.1 jsc.adskeeper.co.uk
+172.0.0.1 l.adsbk.com
+172.0.0.1 l3.aaxads.com
+172.0.0.1 ladsdown.com
+172.0.0.1 leaddaway.g2afse.com
+172.0.0.1 mads.amazon.com
+172.0.0.1 madsats.com
+172.0.0.1 match.adsby.bidtheatre.com
+172.0.0.1 match.adsrvr.org
+172.0.0.1 media.adstatic.com.i.belugacdn.com
+172.0.0.1 mercusuar.uzone.id
+172.0.0.1 mob.adwhirl.com
+172.0.0.1 mobilecontent.smartlinkads.com
+172.0.0.1 n.ads1-adnow.com
+172.0.0.1 n.ads3-adnow.com
+172.0.0.1 n.adxxx.info
+172.0.0.1 n.pc1ads.com
+172.0.0.1 n.pc2ads.com
+172.0.0.1 n.pc5ads.com
+172.0.0.1 n135adserv.com
+172.0.0.1 na61-na62.wagbridge.advertisement.tanx.com.gds.alibabadns.com
+172.0.0.1 na61-na62-st3.wagbridge.advertisement.tanx.com.gds.alibabadns.com
+172.0.0.1 net.salmonads.com
+172.0.0.1 newoctads.com
+172.0.0.1 news-abroad.vivo.com
+172.0.0.1 newsupdatefind.info
+172.0.0.1 newworld-ext-lb.adaptiveads.com
+172.0.0.1 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
+172.0.0.1 nipid-adsapi.azurewebsites.net
+172.0.0.1 nyidt.adsafeprotected.com
+172.0.0.1 offer.careyads.com
+172.0.0.1 onclickads.net
+172.0.0.1 orion.iad.appboy.com
+172.0.0.1 oss-ad.comscore.akadns.net
+172.0.0.1 outcome.supersonicads.com
+172.0.0.1 outcome-cdn.supersonicads.com
+172.0.0.1 outcome-ssp.supersonicads.com
+172.0.0.1 ow-gateway.supersonicads.com
+172.0.0.1 p.aaxads.com
+172.0.0.1 p.adsymptotic.com
+172.0.0.1 padsatz.com
+172.0.0.1 pad-v3.presage.io
+172.0.0.1 pagead.l.doubleclick.net
+172.0.0.1 pagead2.googlesyndication.com
+172.0.0.1 pagead46.l.doubleclick.net
+172.0.0.1 partnerad.l.doubleclick.net
+172.0.0.1 perf.cdnads.com
+172.0.0.1 pingback.giphy.com
+172.0.0.1 pixel.advertising.com
+172.0.0.1 pixel.tapad.com
+172.0.0.1 pixels.ad.gt
+172.0.0.1 pixel-tracking.sonic-us.supersonicads.com
+172.0.0.1 plugin.ucads.ucweb.com
+172.0.0.1 pm-gateway.supersonicads.com
+172.0.0.1 pool5.moatads.com
+172.0.0.1 popcash.libertymediaadss.netdna-cdn.com
+172.0.0.1 popcash.net
+172.0.0.1 prebid.adnxs.com
+172.0.0.1 prod-adsforce-openresty-adv-905369396.ap-southeast-1.elb.amazonaws.com
+172.0.0.1 propellerads.com
+172.0.0.1 pubads.g.doubleclick.net
+172.0.0.1 public-webservice.apdc3n.adpushup.com
+172.0.0.1 publisher-event.ads.prd.ie.internal.unity3d.com
+172.0.0.1 publpush.com
+172.0.0.1 pubpress.net
+172.0.0.1 push.adsconverts.com
+172.0.0.1 push.maribacaberita.com
+172.0.0.1 push2.notify-service.com
+172.0.0.1 pushads.biz
+172.0.0.1 pushads.detik.com
+172.0.0.1 pushnginx.news-host.pw
+172.0.0.1 pushpush.net
+172.0.0.1 px.adhigh.net
+172.0.0.1 px.ads.linkedin.com
+172.0.0.1 qt.slb.adflash.cn
+172.0.0.1 r.adport.io
+172.0.0.1 r.teads.tv
+172.0.0.1 redirect.appleads-trk.com
+172.0.0.1 .com
+172.0.0.1 reports.crashlytics.com
+172.0.0.1 .appmetrica.yandex.net
+172.0.0.1 .requestads.com
+172.0.0.1 -csync-eqx.smartadserver.com
+172.0.0.1 -csync-itx4.smartadserver.com
+172.0.0.1 -usw.mfadsrvr.com
+172.0.0.1 -gateway.supersonicads.com
+172.0.0.1 s.adslinkup.com
+172.0.0.1 s.amazon-adsystem.com
+172.0.0.1 s.pubmine.com
+172.0.0.1 sac.ayads.co
+172.0.0.1 s-cs.send.microad.jp
+172.0.0.1 .adspruce.com
+172.0.0.1 .adtiming.com
+172.0.0.1 .hansel.io
+172.0.0.1 .iadtrack.com
+172.0.0.1 .loveota.com-ca15463c.baiduads.com
+172.0.0.1 -android.ad.smaato.net
+172.0.0.1 sdkconfig.ad.intl.xiaomi.com
+172.0.0.1 sdkconfig.ad.xiaomi.com
+172.0.0.1 secure.adnxs.com
+172.0.0.1 securepubads.g.doubleclick.net
+172.0.0.1 serve.mondiad.net
+172.0.0.1 serve.popads.net
+172.0.0.1 service.adxoo.com
+172.0.0.1 servyourads.com
+172.0.0.1 settings.crashlytics.com
+172.0.0.1 settleads.gotrackier.com
+172.0.0.1 sg2-bid.adsrvr.org
+172.0.0.1 sgp.smartadserver.com
+172.0.0.1 showads-sg.pubmatic.com
+172.0.0.1 s-img.adskeeper.co.uk
+172.0.0.1 s-img.mgid.com
+172.0.0.1 sjedt.adsafeprotected.com
+172.0.0.1 sp.adpushonline.com
+172.0.0.1 ssdk.adkmob.com
+172.0.0.1 ssp.adskom.com
+172.0.0.1 st.beaverads.com
+172.0.0.1 static.ads.apusapps.com
+172.0.0.1 static.adsafeprotected.com
+172.0.0.1 static.ads-twitter.com
+172.0.0.1 static.adxadserv.com
+172.0.0.1 static.doubleclick.net
+172.0.0.1 static-doubleclick-net.l.google.com
+172.0.0.1 stats.g.doubleclick.net
+172.0.0.1 stats.l.doubleclick.net
+172.0.0.1 stg-data-id.ads.heytapmobi.com
+172.0.0.1 supply.decenterads.com
+172.0.0.1 sync3.adsniper.ru
+172.0.0.1 sync-dsp.ad-m.asia
+172.0.0.1 t.rebornads.com
+172.0.0.1 t.teads.tv
+172.0.0.1 tagan.adlightning.com
+172.0.0.1 timelyads.hotrk0.com
+172.0.0.1 topdealad.xml.ak-is2.net
+172.0.0.1 tr9ck.bruceleadx2.com
+172.0.0.1 track.adsplay.in
+172.0.0.1 track.adstack.co
+172.0.0.1 track.brucelead.com
+172.0.0.1 track.gowithads.com
+172.0.0.1 track-apac.adformnet.akadns.net
+172.0.0.1 tracking.bayofads.com
+172.0.0.1 tracking.intl.miui.com
+172.0.0.1 tracking.yohoads.com
+172.0.0.1 tr-asia.adsmoloco.com
+172.0.0.1 trk.xapads.com
+172.0.0.1 u-ad.com
+172.0.0.1 u-ad.info
+172.0.0.1 ulc3fq6eqm4b.l.adsco.re
+172.0.0.1 um3.eqads.com
+172.0.0.1 unconf.adkmob.com
+172.0.0.1 us.a.30ads.com
+172.0.0.1 usc.adserver.snapads.com
+172.0.0.1 use-tor.adsrvr.org
+172.0.0.1 use-va1.adsrvr.org
+172.0.0.1 uzone.id
+172.0.0.1 v.adsrvr.org
+172.0.0.1 v.amazon-adsystem.com
+172.0.0.1 v3.mercusuar.uzone.id
+172.0.0.1 v3-mercusuar.info
+172.0.0.1 wd.adcolony.com
+172.0.0.1 wd.adcolony.xyz
+172.0.0.1 worker23.advertnative.com
+172.0.0.1 worker3.advertnative.com
+172.0.0.1 worker4.advertnative.com
+172.0.0.1 ws.tapjoyads.com
+172.0.0.1 ww1097.smartadserver.com
+172.0.0.1 ww2060-itx4.smartadserver.com
+172.0.0.1 ww2060-sgp.smartadserver.com
+172.0.0.1 wwclickads.club
+172.0.0.1 www.adskeeper.co.uk
+172.0.0.1 www.adsv123.com
+172.0.0.1 www.adtival.network
+172.0.0.1 www.freeadso.com
+172.0.0.1 www.googleadservices.com
+172.0.0.1 www.maxonclick.com
+172.0.0.1 www.salmonads.com
+172.0.0.1 www.uzone.id
+172.0.0.1 xapads.go2affise.com
+172.0.0.1 xapads.rtb.ak-is2.net
+172.0.0.1 xapads.rtb-useast.ak-is2.net
+172.0.0.1 xyads.fuse-cloud.com
+172.0.0.1 y.one.impact-ad.jp
+172.0.0.1 z.moatads.com
+172.0.0.1 adx-tk.rayjump.com
+172.0.0.1 zeus.ad.intl.xiaomi.com
+172.0.0.1 9197271.fls.doubleclick.net
+172.0.0.1 9227947.fls.doubleclick.net
+172.0.0.1 9229036.fls.doubleclick.net
+172.0.0.1 a.adtng.com
+172.0.0.1 a.tracker.svsw.xyz
+172.0.0.1 abroad-dw-online.ksord.com
+172.0.0.1 ad.yf9889.com
+172.0.0.1 adashx.m.taobao.com
+172.0.0.1 adn-apac.admixer.co.kr
+172.0.0.1 adrta.com
+172.0.0.1 ads.superawesome.tv
+172.0.0.1 aff-report.lbesecapi.com
+172.0.0.1 ali-stats.jpush.cn
+172.0.0.1 api.bqtabc.adflash.cn
+172.0.0.1 api.rqmob.com
+172.0.0.1 asia.stat.moxiu.net
+172.0.0.1 bid.g.doubleclick.net
+172.0.0.1 chikiporn.com
+172.0.0.1 chikiporn1.vanessadelriomovies.com
+172.0.0.1 ck.jads.co
+172.0.0.1 clickmob.c0c.xyz
+172.0.0.1 data-cl-f.ads.oppomobile.com
+172.0.0.1 go.coralsands.xyz
+172.0.0.1 googleads4.g.doubleclick.net
+172.0.0.1 id.push.heytapmobi.com
+172.0.0.1 ipds.adrta.com
+172.0.0.1 mc.admetrica.ru
+172.0.0.1 mc.yandex.com
+172.0.0.1 mc.yandex.ru
+172.0.0.1 pubserver2.bizport.cn
+172.0.0.1 pushimg.com
+172.0.0.1 pushservice.info
+172.0.0.1 quadrupleclick.com
+172.0.0.1 report.appmetrica.yandex.net
+172.0.0.1 rs.pushservice.xyz
+172.0.0.1 s.1ts18.top
+172.0.0.1 show.revopush.com
+172.0.0.1 st.adxxx.info
+172.0.0.1 static.updatess.info
+172.0.0.1 static-l3.xvideos-cdn.com
+172.0.0.1 the-sexy-tube.com
+172.0.0.1 tracker.rqmob.com
+172.0.0.1 trk.georgepush.com
+172.0.0.1 us1.evadavdsp.pro
+172.0.0.1 yandex.com
+172.0.0.1 yandex.st
+172.0.0.1 cdn.appnext.com
+172.0.0.1 cdn.pushmart.net
+172.0.0.1 counter.yadro.ru
+172.0.0.1 feed.pushmart.net
+172.0.0.1 promo-bc.com
+172.0.0.1 si.appnext.com
+172.0.0.1 xapi.juicyads.com
+172.0.0.1 ad.jixie.io
+172.0.0.1 adashbc.ut.taobao.com
+172.0.0.1 adlog.flurry.com
+172.0.0.1 ads.cloudgames.com
+172.0.0.1 ads3.fingersoft.net
+172.0.0.1 adtrack.appcpi.net
+172.0.0.1 asia.adform.net
+172.0.0.1 asia-static-p.vivoglobal.com
+172.0.0.1 auction.unityads.unity3d.com
+172.0.0.1 banner-gateway.supersonicads.com
+172.0.0.1 bigdata.adfuture.cn
+172.0.0.1 blacurlik.com
+172.0.0.1 cm.adgrx.com
+172.0.0.1 d.adroll.com
+172.0.0.1 deloplen.com
+172.0.0.1 img.adtiming.com
+172.0.0.1 mcdp-sadc1.outbrain.com
+172.0.0.1 nep.advangelists.com
+172.0.0.1 partner.googleadservices.com
+172.0.0.1 serconmp.com
+172.0.0.1 topflownews.com
+172.0.0.1 tpc.googlesyndication.com
+172.0.0.1 ucads-cdn.ucweb.com
+172.0.0.1 vast.adxoo.com
+172.0.0.1 3.kxc-news2.club
+172.0.0.1 9469210.fls.doubleclick.net
 a.adobviewe.club
 abroad.api.comm.intl.miui.com
 ad.weplayer.cc
