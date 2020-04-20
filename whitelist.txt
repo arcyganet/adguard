@@ -1,0 +1,66 @@
+Google Maps and other Google services
+172.0.0.1 clients4.google.com 
+172.0.0.1 clients2.google.com
+
+YouTube history
+172.0.0.1 s.youtube.com 
+172.0.0.1 video-stats.l.google.com
+
+Google Play
+As described here 2.2k.
+172.0.0.1 android.clients.google.com
+
+Google Keep
+The Google Keep Chrome App requires these domains to be whitelisted in order to sync.
+172.0.0.1 reminders-pa.googleapis.com firestore.googleapis.com
+
+Gmail (Google Mail)
+iOS app requires this to be whitelisted for the app to connect.
+172.0.0.1 googleapis.l.google.com
+
+Windows10 Update
+172.0.0.1 settings-win.data.microsoft.com
+172.0.0.1 v10.vortex-win.data.microsoft.com
+
+Windows uses this to verify connectivity to Internet
+172.0.0.1 www.msftncsi.com
+
+Microsoft Web Pages
+172.0.0.1 outlook.office365.com products.office.com c.s-microsoft.com i.s-microsoft.com login.live.com login.microsoftonline.com 
+
+Backup bitlocker recovery key to Microsoft account
+172.0.0.1 g.live.com
+
+Microsoft Store (Windows Store)
+172.0.0.1 dl.delivery.mp.microsoft.com geo-prod.do.dsp.mp.microsoft.com displaycatalog.mp.microsoft.com
+
+Xbox Live
+172.0.0.1 clientconfig.passport.net 
+
+These domains are used for Xbox Live Achievements (confirmed by Microsoft)
+172.0.0.1 v10.events.data.microsoft.com
+172.0.0.1 v20.events.data.microsoft.com
+
+Used for Xbox Live Messaging (post)
+172.0.0.1 client-s.gateway.messenger.live.com
+
+172.0.0.1 xbox.ipv6.microsoft.com device.auth.xboxlive.com www.msftncsi.com title.mgt.xboxlive.com xsts.auth.xboxlive.com title.auth.xboxlive.com ctldl.windowsupdate.com attestation.xboxlive.com xboxexperiencesprod.experimentation.xboxlive.com xflight.xboxlive.com cert.mgt.xboxlive.com xkms.xboxlive.com def-vef.xboxlive.com notify.xboxlive.com help.ui.xboxlive.com licensing.xboxlive.com eds.xboxlive.com www.xboxlive.com v10.vortex-win.data.microsoft.com settings-win.data.microsoft.com
+
+Skype
+172.0.0.1 s.gateway.messenger.live.com client-s.gateway.messenger.live.com ui.skype.com pricelist.skype.com apps.skype.com m.hotmail.com sa.symcb.com s{1..5}.symcb.com
+
+Microsoft Office
+172.0.0.1 officeclient.microsoft.com
+
+Jackbox.tv
+172.0.0.1 www.google-analytics.com
+172.0.0.1 ssl.google-analytics.com
+
+Spotify
+172.0.0.1 spclient.wg.spotify.com apresolve.spotify.com
+
+Target's Weekly Ads
+172.0.0.1 weeklyad.target.com m.weeklyad.target.com weeklyad.target.com.edgesuite.net
+
+Facebook, Facebook Messenger
+172.0.0.1 upload.facebook.com creative.ak.fbcdn.net external-lhr0-1.xx.fbcdn.net external-lhr1-1.xx.fbcdn.net external-lhr10-1.xx.fbcdn.net external-lhr2-1.xx.fbcdn.net external-lhr3-1.xx.fbcdn.net external-lhr4-1.xx.fbcdn.net external-lhr5-1.xx.fbcdn.net external-lhr6-1.xx.fbcdn.net external-lhr7-1.xx.fbcdn.net external-lhr8-1.xx.fbcdn.net external-lhr9-1.xx.fbcdn.net fbcdn-creative-a.akamaihd.net scontent-lhr3-1.xx.fbcdn.net scontent.xx.fbcdn.net scontent.fgdl5-1.fna.fbcdn.net graph.facebook.com b-graph.facebook.com connect.facebook.com cdn.fbsbx.com api.facebook.com edge-mqtt.facebook.com mqtt.c10r.facebook.com portal.fb.com star.c10r.facebook.com star-mini.c10r.facebook.com b-api.facebook.com fb.me bigzipfiles.facebook.com
